@@ -1,6 +1,6 @@
 # 👋 Hola Mundo! Soy Zair Bulos
 
-Desarrollador de software con experiencia en desarrollo web, especializándome en back-end y actualmente incursionando de manera autodidacta en el campo de la ciberseguridad.
+Desarrollador de software con experiencia en el desarrollo de aplicaciones web, especializado en el desarrollo back-end con Java.
 
 ## 👨‍💻 Tecnologías
 
@@ -10,7 +10,6 @@ Desarrollador de software con experiencia en desarrollo web, especializándome e
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +19,6 @@ Desarrollador de software con experiencia en desarrollo web, especializándome e
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
