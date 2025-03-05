@@ -1,35 +1,17 @@
-# 👋 Hola Mundo! Soy Zair Bulos
+# Hi 👋, I'm Zair Bulos
 
-Desarrollador de software con experiencia en el desarrollo de aplicaciones web, especializado en el desarrollo back-end con Java.
+<a href="https://ar.linkedin.com/in/zairbulos">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35C9DD&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Java+Developer+%E2%98%95;DevOps+Enthusiast+%F0%9F%8C%B1;University+Technician+in+Programming+%F0%9F%8E%93" alt="Zair Bulos" />
+</a>
 
-## 👨‍💻 Tecnologías
+## Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,spring,react,vue,mysql,docker,git" />
+</p>
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+## GitHub Stats
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZairBulos&theme=react&show_icons=true&hide_border=true&count_private=false)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📊 Estadísticas de GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=ZairBulos&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZairBulos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZairBulos&theme=react&show_icons=true&hide_border=true&layout=compact)
